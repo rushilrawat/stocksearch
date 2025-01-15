@@ -11,7 +11,14 @@ An interactive web application for stock market analysis, combining real-time an
    - Adjust weights, rebalance frequency, and see results in real-time.
 
 3. **No Database Required**:  
-   - Data is fetched directly from the API in real-time, ensuring fresh and accurate results.  
+   - Data is fetched directly from the API in real-time, ensuring fresh and accurate results. 
+
+---
+
+## 🎯 Real-World Applications
+1. **Investment Insights**: Empower users to analyze stock trends and make informed investment decisions.
+2. **Educational Tool**: Teach finance concepts with live and historical data visualization.
+3. **Portfolio Analysis**: Help users simulate portfolio strategies for better asset allocation.
 
 ---
 
@@ -32,11 +39,6 @@ An interactive web application for stock market analysis, combining real-time an
 
 ---
 
-## 🔗 Live Demo  
-Coming soon...  
-
----
-
 ## 📘 Documentation  
 ### **How It Works**  
 1. **Stock Price Visualizer**:  
@@ -51,14 +53,19 @@ Coming soon...
 
 ---
 
-##🎯 Real-World Applications
-1. **Investment Insights**: Empower users to analyze stock trends and make informed investment decisions.
-2. **Educational Tool**: Teach finance concepts with live and historical data visualization.
-3. **Portfolio Analysis**: Help users simulate portfolio strategies for better asset allocation.
+## 🔗 Live Demo  
+Coming soon...  
 
 ---
 
-##🛠 Future Enhancements
+📧 Contact
+Author: Rushil Rawat
+Email: rawat.rushil.work@gmail.com
+LinkedIn: https://www.linkedin.com/in/rushilrawat/
+
+---
+
+## 🛠 Future Enhancements
 1. Add predictive models using machine learning to forecast stock trends.
 2. Include more metrics, like moving averages and technical indicators, for advanced analysis.
 3. Enable portfolio optimization using risk-adjusted returns.
