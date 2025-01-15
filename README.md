@@ -13,13 +13,10 @@ An interactive web application for stock market analysis, combining real-time an
 3. **No Database Required**:  
    - Data is fetched directly from the API in real-time, ensuring fresh and accurate results. 
 
-
 ## 🎯 Real-World Applications
 1. **Investment Insights**: Empower users to analyze stock trends and make informed investment decisions.
 2. **Educational Tool**: Teach finance concepts with live and historical data visualization.
 3. **Portfolio Analysis**: Help users simulate portfolio strategies for better asset allocation.
-
-
 
 ## 🚀 Tech Stack  
 - **Frontend**:  
@@ -36,8 +33,6 @@ An interactive web application for stock market analysis, combining real-time an
   - Vercel, Netlify, or AWS Amplify for frontend.  
   - Heroku or Render for backend.
 
-
-
 ## 📘 Documentation  
 ### **How It Works**  
 1. **Stock Price Visualizer**:  
@@ -50,19 +45,8 @@ An interactive web application for stock market analysis, combining real-time an
    - Choose a historical time range.  
    - Get a detailed analysis of portfolio performance, including ROI and volatility.  
 
-
-
 ## 🔗 Live Demo  
 Coming soon...  
-
-
-
-## 📧 Contact
-- Author: Rushil Rawat
-- Email: rawat.rushil.work@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rushilrawat/
-
----
 
 ## 🛠 Future Enhancements
 1. Add predictive models using machine learning to forecast stock trends.
@@ -70,3 +54,7 @@ Coming soon...
 3. Enable portfolio optimization using risk-adjusted returns.
 4. Support for cryptocurrency data.
 
+## 📧 Contact
+- Author: Rushil Rawat
+- Email: rawat.rushil.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rushilrawat/
