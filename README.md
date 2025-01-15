@@ -59,9 +59,9 @@ Coming soon...
 ---
 
 ## 📧 Contact
-Author: Rushil Rawat
-Email: rawat.rushil.work@gmail.com
-LinkedIn: https://www.linkedin.com/in/rushilrawat/
+- Author: Rushil Rawat
+- Email: rawat.rushil.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rushilrawat/
 
 ---
 
